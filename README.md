@@ -45,16 +45,12 @@ Run the Streamlit App
 
 streamlit run app.py
 
-
 ## 📦 Dependencies
 
 This project requires the following Python libraries:
-• streamlit
-© matplotlib
-• numpy
-© scipy
-• python-control
-© Install them all using:
 
-pip install streamlit matplotlib numpy scipy control
-
+- **streamlit**
+- **matplotlib**
+- **numpy**
+- **scipy**
+- **python-control**

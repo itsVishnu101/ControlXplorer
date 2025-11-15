@@ -41,33 +41,21 @@ This tool allows you to:
 
 ## 🛠️ Installation
 
-Clone the repository:
+Run the Streamlit App
 
-bash
-git clone https://github.com/your-username/control-systems-simulator.git
-cd control-systems-simulator
-▶️ Usage
-Run the Streamlit app:
-
-bash
-Copy code
 streamlit run app.py
-Then open:
-👉 http://localhost:8501
 
-📦 Dependencies
-streamlit
+8501
 
-matplotlib
+## 📦 Dependencies
 
-numpy
+This project requires the following Python libraries:
+• streamlit
+© matplotlib
+• numpy
+© scipy
+• python-control
+© Install them all using:
 
-scipy
-
-python-control
-
-Install them manually:
-
-bash
-Copy code
 pip install streamlit matplotlib numpy scipy control
+

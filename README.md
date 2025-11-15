@@ -45,7 +45,6 @@ Run the Streamlit App
 
 streamlit run app.py
 
-8501
 
 ## 📦 Dependencies
 

@@ -26,6 +26,7 @@ def plot_step_response(system, title="Step Response"):
     ax.grid(True)
     st.pyplot(fig)
 
+
 # Plot Bode Plot
 def plot_bode(system):
     mag, phase, omega = control.bode(system, dB=True, Plot=False)
